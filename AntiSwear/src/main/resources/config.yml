@@ -1,0 +1,22 @@
+# AntiSwear Configuration
+
+# List of swear words to filter (case insensitive)
+swear-words:
+  - fuck
+  - shit
+  - bitch
+  - ass
+  - damn
+  - crap
+  - piss
+  - dick
+  - cock
+  - pussy
+  - fucker
+  - motherfucker
+  - bullshit
+  - bastard
+  - cunt
+  - whore
+  - slut
+  # Add more words as needed 
